@@ -1,4 +1,3 @@
-```markdown name=README.md
 # Carlos Machel — AI Engineer (.NET / C#)
 
 AI Engineer focused on building **production-grade AI systems** with **C#/.NET**, **agentic architectures**, and the **Microsoft Agent Framework**.  
@@ -64,4 +63,3 @@ I work on turning LLM capabilities into reliable software: **tool use**, **orche
 ## Banner
 
 ![AI Engineering Banner](https://images.unsplash.com/photo-1555255707-c07966088b7b?auto=format&fit=crop&w=1600&q=80)
-```
