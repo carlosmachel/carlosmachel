@@ -38,14 +38,6 @@ I work on turning LLM capabilities into reliable software: **tool use**, **orche
 ![Profile views](https://komarev.com/ghpvc/?username=carlosmachel&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/carlosmachel?style=flat-square)
 
-> If the cards below appear “broken”, it’s usually due to one of these:
-> - the `username` doesn’t match your profile,
-> - the stats service is rate-limited,
-> - your profile/repo activity is mostly private,
-> - GitHub blocks the image request temporarily.
->
-> The links below use a commonly working setup (with `cache_seconds` and a fixed theme).
-
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosmachel&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 
@@ -59,7 +51,3 @@ I work on turning LLM capabilities into reliable software: **tool use**, **orche
 - **LinkedIn:** https://www.linkedin.com/in/carlosmachel/
 
 ---
-
-## Banner
-
-![AI Engineering Banner](https://images.unsplash.com/photo-1555255707-c07966088b7b?auto=format&fit=crop&w=1600&q=80)
