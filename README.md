@@ -35,7 +35,7 @@ I build AI agents in C# with the **Microsoft Agent Framework** and **Microsoft F
 | Memory & context | [long-term memory](https://github.com/carlosmachel/maf-video-10) · [Foundry Memory](https://github.com/carlosmachel/maf-video-20) · [compaction](https://github.com/carlosmachel/maf-video-14) |
 | RAG | [permission-aware RAG](https://github.com/carlosmachel/maf-video-25) |
 | Workflows & multi-agent | [mixed workflows](https://github.com/carlosmachel/maf-video-17) · [checkpoints](https://github.com/carlosmachel/maf-video-18) · [harness + background agents](https://github.com/carlosmachel/maf-video-23) |
-| Quality & operations | [evaluation](https://github.com/carlosmachel/maf-video-28) · [OpenTelemetry traces](https://github.com/carlosmachel/maf-codeact) · [hosted agents with azd](https://github.com/carlosmachel/maf-video-27) |
+| Quality & operations | [evaluation](https://github.com/carlosmachel/maf-video-28) · [observability with OpenTelemetry](https://github.com/carlosmachel/maf-video-13) · [hosted agents with azd](https://github.com/carlosmachel/maf-video-27) |
 
 ## Talks
 
