@@ -1,16 +1,18 @@
 # Carlos Machel
 
-**Microsoft MVP · AI Engineer · .NET**
+**Microsoft MVP (.NET) · AI Engineer**
 
 I build AI agents in C# with the **Microsoft Agent Framework** and **Microsoft Foundry**, and I teach how to do it: tools, memory, RAG, workflows, evaluation and observability, on real business scenarios.
 
-[Website](https://carlosmachel.com/) · [LinkedIn](https://www.linkedin.com/in/carlosmachel/) · [AzureBrasil.Cloud](https://azurebrasil.cloud) · [MAF video series](https://carlosmachel.github.io/maf-azurebrasil-hub/)
+[Website](https://carlosmachel.com/) · [LinkedIn](https://www.linkedin.com/in/carlosmachel/) · [AzureBrasil.Cloud](https://azurebrasil.cloud)
+
+▶️ YouTube playlists: [Microsoft Agent Framework](https://www.youtube.com/playlist?list=PLagWy4RVE5D-zG5tHWz5f_Vt8Mp6p1F--) · [Microsoft Foundry](https://www.youtube.com/playlist?list=PLagWy4RVE5D9gpd0t82q6PHEVTuNNArbi) · [Series hub (code for every episode)](https://carlosmachel.github.io/maf-azurebrasil-hub/)
 
 ---
 
 ## In numbers
 
-- **30+ episodes** of the Microsoft Agent Framework series on AzureBrasil.Cloud, each with runnable .NET code
+- **30+ episodes** of the [Microsoft Agent Framework series](https://www.youtube.com/playlist?list=PLagWy4RVE5D-zG5tHWz5f_Vt8Mp6p1F--) on AzureBrasil.Cloud, each with runnable .NET code
 - **5 talks and lives** in 2025–2026 about agents in .NET
 - Recent samples run on **.NET 10** with Entra ID auth (`DefaultAzureCredential`), no API keys
 
