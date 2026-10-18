@@ -1,53 +1,56 @@
-# Carlos Machel — AI Engineer (.NET / C#)
+# Carlos Machel
 
-AI Engineer focused on building **production-grade AI systems** with **C#/.NET**, **agentic architectures**, and the **Microsoft Agent Framework**.  
-I work on turning LLM capabilities into reliable software: **tool use**, **orchestration**, **evaluation**, and **integration** into real products.
+**Microsoft MVP · AI Engineer · .NET**
 
----
+I build AI agents in C# with the **Microsoft Agent Framework** and **Microsoft Foundry**, and I teach how to do it: tools, memory, RAG, workflows, evaluation and observability, on real business scenarios.
 
-## Expertise
-
-- **AI Engineering:** agentic workflows, tool calling, prompt & system design, RAG patterns, reliability and guardrails
-- **Software Engineering:** clean architecture, scalable services, maintainable codebases, testing and observability
-- **Applied Delivery:** integrating AI into business processes, APIs, internal tools, and automation pipelines
+[Website](https://carlosmachel.com/) · [LinkedIn](https://www.linkedin.com/in/carlosmachel/) · [AzureBrasil.Cloud](https://azurebrasil.cloud) · [MAF video series](https://carlosmachel.github.io/maf-azurebrasil-hub/)
 
 ---
 
-## Core stack
+## In numbers
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Agents](https://img.shields.io/badge/Agents-0B1220?style=for-the-badge&logo=semanticweb&logoColor=white)
+- **30+ episodes** of the Microsoft Agent Framework series on AzureBrasil.Cloud, each with runnable .NET code
+- **5 talks and lives** in 2025–2026 about agents in .NET
+- Recent samples run on **.NET 10** with Entra ID auth (`DefaultAzureCredential`), no API keys
 
-**Technologies:** C#, .NET, Microsoft Agent Framework, LLM applications, AI agents, integrations & automation.
+## Featured work
+
+| Project | What it shows |
+|---------|---------------|
+| [**MAF video series hub**](https://github.com/carlosmachel/maf-azurebrasil-hub) | Every episode of the series, with code and video, from basic agents to hosted agents |
+| [**Permission-aware RAG**](https://github.com/carlosmachel/maf-video-25) | RAG where each user only gets answers from documents they can access, enforced in SQL Server 2025 `VECTOR` queries |
+| [**Multi-agent credit assessment**](https://github.com/carlosmachel/maf-workflow-multiagents) | Parallel agents (credit, KYC, fraud, income) orchestrated in a workflow |
+| [**Evaluating AI agents**](https://github.com/carlosmachel/maf-video-28) | Evaluating agent quality and tool calling with Microsoft Foundry |
+| [**Code review agent via MCP**](https://github.com/carlosmachel/maf-video-22) | Agent that reviews C# using a Foundry Toolbox backed by Roslyn Analyzers over MCP |
+
+## What I work on
+
+| Area | Examples |
+|------|----------|
+| Agents & tools | [function calling + reasoning](https://github.com/carlosmachel/maf-video-12) · [Code Interpreter](https://github.com/carlosmachel/maf-video-19) · [CodeAct sandbox](https://github.com/carlosmachel/maf-codeact) · [Agent Skills](https://github.com/carlosmachel/maf-video-11) |
+| Protocols | [MCP](https://github.com/carlosmachel/maf-video-09) · [MCP client/server](https://github.com/carlosmachel/mcp-net-flow) · [A2A](https://github.com/carlosmachel/maf-a2a-agent) |
+| Memory & context | [long-term memory](https://github.com/carlosmachel/maf-video-10) · [Foundry Memory](https://github.com/carlosmachel/maf-video-20) · [compaction](https://github.com/carlosmachel/maf-video-14) |
+| RAG | [permission-aware RAG](https://github.com/carlosmachel/maf-video-25) |
+| Workflows & multi-agent | [mixed workflows](https://github.com/carlosmachel/maf-video-17) · [checkpoints](https://github.com/carlosmachel/maf-video-18) · [harness + background agents](https://github.com/carlosmachel/maf-video-23) |
+| Quality & operations | [evaluation](https://github.com/carlosmachel/maf-video-28) · [OpenTelemetry traces](https://github.com/carlosmachel/maf-codeact) · [hosted agents with azd](https://github.com/carlosmachel/maf-video-27) |
+
+## Talks
+
+| Event | Topic | Code |
+|-------|-------|------|
+| Data AI Weekend 2026 | From chat to loop: evolving agents with the Agent Framework | [repo](https://github.com/carlosmachel/data-ai-weekend-2026) |
+| Live AzureBrasil.Cloud 2026 | Graph Engineering vs. Agent Framework workflows | [repo](https://github.com/carlosmachel/lives-graph-engineering) |
+| Data Saturday DevPira 2026 | Building AI agents step by step with .NET | [repo](https://github.com/carlosmachel/data-saturday-devpira-2026) |
+| AzureBrasil Summit 2026 | Automated credit decisions with AI agents | [repo](https://github.com/carlosmachel/azbr-summit-2026) |
+| Data Saturday 2025 | C# exercise generator with Azure AI Agents | [repo](https://github.com/carlosmachel/data-saturday-2025) |
+
+More talks, videos and articles: [Community Contributions](https://github.com/carlosmachel/Community-Contributions-2025-2026)
+
+## Stack
+
+C# · .NET 10 · Microsoft Agent Framework · Microsoft Foundry · Azure OpenAI · MCP · SQL Server · Aspire · OpenTelemetry
 
 ---
 
-## What you’ll find here
-
-- **AI agent implementations** and orchestration patterns (realistic, extensible, and testable)
-- **.NET/C# reference code** for AI-enabled services and developer tooling
-- **Experiments & learnings** focused on practical outcomes (latency, cost, quality, and safety)
-
----
-
-## GitHub metrics
-
-![Profile views](https://komarev.com/ghpvc/?username=carlosmachel&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/carlosmachel?style=flat-square)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosmachel&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmachel&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
-
----
-
-## Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/carlosmachel/
-
----
+Content is mostly in Portuguese (PT-BR); code and READMEs are in English.
